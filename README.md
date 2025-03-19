@@ -1,5 +1,5 @@
 
-## Conectar seu Formulário HTML a um banco de dados SQLite
+## Conectar Formulário HTML a um banco de dados SQLite
 
 1. **Configurar o Ambiente de Desenvolvimento**:
    - Certifique-se de ter o Python instalado em seu sistema.
