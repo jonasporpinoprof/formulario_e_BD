@@ -1,3 +1,11 @@
+### Comando para criar e ativar o ambiente virtual
+```
+python.exe -m venv .venv
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+
+.\.venv\Scripts\activate
+```
 
 ## Conectar Formulário HTML a um banco de dados SQLite
 
