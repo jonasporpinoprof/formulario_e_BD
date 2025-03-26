@@ -43,14 +43,13 @@ pip install flask
 ### 3. Criar a Estrutura do Projeto
 Crie uma pasta e dentro dela, crie os seguintes arquivos:
 ```sh
-mkdir flask_comments
-cd flask_comments
+ProjetoPostGet
 ```
+
 Crie os arquivos:
 ```sh
-touch app.py
-mkdir templates
-touch templates/index.html
+app.py
+templates/index.html
 ```
 
 ### 4. Implementar o Código
