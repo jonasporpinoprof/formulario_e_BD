@@ -41,10 +41,7 @@ pip install flask
 ```
 
 ### 3. Criar a Estrutura do Projeto
-Crie uma pasta e dentro dela, crie os seguintes arquivos:
-```sh
-ProjetoPostGet
-```
+Crie uma pasta e dentro dela, nome da pasta ProjetoPostGet.
 
 Crie os arquivos:
 ```sh
